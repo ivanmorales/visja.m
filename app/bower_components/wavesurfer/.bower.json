@@ -1,0 +1,16 @@
+{
+  "name": "wavesurfer.js",
+  "version": "0.2.3",
+  "homepage": "https://github.com/katspaugh/wavesurfer.js",
+  "main": "build/wavesurfer.min.js",
+  "license": "CC BY 3.0",
+  "_release": "0.2.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.3",
+    "commit": "e62f77f6fad4df01bf1ead7ac9f77512f155d1f4"
+  },
+  "_source": "https://github.com/katspaugh/wavesurfer.js.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/katspaugh/wavesurfer.js.git"
+}
